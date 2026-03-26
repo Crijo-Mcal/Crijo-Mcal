@@ -26,3 +26,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crijo95)
 
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Crijo-Mcal&theme=dracula)](https://www.instagram.com/crijo95)
+
+<img src="https://raw.githubusercontent.com/Crijo-Mcal/Crijo-Mcal/output/snake.svg" alt="Snake animation" />
