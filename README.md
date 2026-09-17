@@ -8,16 +8,16 @@
 
 ---
 
-### 🛠 Tech Stack & Skills
+### 🛠 Skills
 
 **Principais Competências (Comfortable):**  
-<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="PHP" /> <img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="Figma" />
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![PHP](https://shields.io) ![MySQL](https://shields.io) ![Figma](https://shields.io)
 
 **Tecnologias em Desenvolvimento (Basic / Projects):**  
-<img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="Node.js" /> <img src="https://shields.io" alt="Express.js" /> <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="Redis" /> <img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="Tailwind" /> <img src="https://shields.io" alt="Vite" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://shields.io) ![Node.js](https://shields.io) ![Express.js](https://shields.io) ![PostgreSQL](https://shields.io) ![Redis](https://shields.io) ![Docker](https://shields.io) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://shields.io)
 
 ---
 
-<img src="https://vercel.app" alt="Profile Summary" />
+![Profile Summary](https://vercel.app)
 
-<img src="https://githubusercontent.com" alt="Snake animation" />
+![Snake animation](https://githubusercontent.com)
