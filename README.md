@@ -11,26 +11,13 @@
 ### 🛠 Tech Stack & Skills
 
 **Principais Competências (Comfortable):**  
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![PHP](https://shields.io) ![MySQL](https://shields.io) ![Figma](https://shields.io)
+<img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="PHP" /> <img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="Figma" />
 
 **Tecnologias em Desenvolvimento (Basic / Projects):**  
-![React](https://shields.io) ![TypeScript](https://shields.io) ![Node.js](https://shields.io) ![Express.js](https://shields.io) ![PostgreSQL](https://shields.io) ![Redis](https://shields.io) ![Docker](https://shields.io) ![Tailwind](https://shields.io) ![Vite](https://shields.io)
+<img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="TypeScript" /> <img src="https://shields.io" alt="Node.js" /> <img src="https://shields.io" alt="Express.js" /> <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="Redis" /> <img src="https://shields.io" alt="Docker" /> <img src="https://shields.io" alt="Tailwind" /> <img src="https://shields.io" alt="Vite" />
 
 ---
 
-### 📂 Featured Projects (From my CV)
-
-*   **ReservaJá** – Reservation and scheduling web app developed during my internship using PHP and MySQL.
-*   **Full-Stack To-Do List App** – Built with React, Node.js, PostgreSQL, and containerized with Docker. Features JWT Authentication (Access/Refresh tokens).
-*   **Weather Web Application** – Weather app utilizing Redis for caching and rate-limiting to optimize API consumption.
-*   **Movie Explorer App** – Front-end film exploration application using React and Tailwind CSS.
-
----
-
-### 🌐 Connect with Me
-
-[![Instagram](https://shields.io)](https://instagram.com)
-
-[![Profile Summary](https://vercel.app)](https://github.com)
+<img src="https://vercel.app" alt="Profile Summary" />
 
 <img src="https://githubusercontent.com" alt="Snake animation" />
